@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://ashy-stone-06e72d800.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://youtu.be/NA3LMUk4VA8
 
 ## Azure technologies used for Project
 
